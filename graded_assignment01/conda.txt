@@ -1,0 +1,2 @@
+cd "D:\2025H UIT\DTE-2502\GOblig1\graded_assignment01"
+conda activate uitnn
